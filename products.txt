@@ -1,0 +1,11 @@
+Category|Product|Price_per_kg|Sold_Quantity
+Fruits|Apples|2.5|100
+Fruits|Apples|3.5|220
+Fruits|Bananas|1.2|2500
+Fruits|Oranges|1.0|750
+Vegetables|Cucumbers|1.0|100
+Vegetables|Tomatoes|1.5|100
+CategoryA|ProductA|2.0|200
+CategoryB|ProductB|8.0|800
+CategoryC|ProductC|32.0|3200
+CategoryD|ProductD|128.0|12800
